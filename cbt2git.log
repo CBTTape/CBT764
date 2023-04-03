@@ -1,0 +1,12 @@
+2023-04-03 02:29:48.748262 - Initialized conversion of CBT764
+2023-04-03 02:29:48.830679 - Received SBGOLOB.CBT505.FILE764 from FILE764.XMI 
+2023-04-03 02:29:48.833564 - Found $$$#DATE.txt (text/plain) in SBGOLOB.CBT505.FILE764, moved to FILE764/$$$#DATE
+2023-04-03 02:29:48.834814 - Found $$NOTE1.txt (text/plain) in SBGOLOB.CBT505.FILE764, moved to FILE764/$$NOTE1
+2023-04-03 02:29:48.836164 - Found $BR.rexx (text/plain) in SBGOLOB.CBT505.FILE764, moved to FILE764/$BR
+2023-04-03 02:29:48.837539 - Found $PDSLOAD.jcl (text/plain) in SBGOLOB.CBT505.FILE764, moved to FILE764/$PDSLOAD
+2023-04-03 02:29:48.838674 - Found @FILE764.txt (text/plain) in SBGOLOB.CBT505.FILE764, moved to FILE764/@FILE764
+2023-04-03 02:29:48.839646 - Found CATSRCH.rexx (text/plain) in SBGOLOB.CBT505.FILE764, moved to FILE764/CATSRCH
+2023-04-03 02:29:48.845411 - Found PDSLOAD.xmi (application/xmit) in SBGOLOB.CBT505.FILE764
+2023-04-03 02:29:48.852353   - Received RECFM=U data, stored XMIT file as CBT764/PDSLOAD.xmi
+2023-04-03 02:29:48.852390 - Found TTL.bin containing application/octet-stream, moved to FILE764/TTL
+2023-04-03 02:29:48.853354 - Found XMEMSTOR.bin containing application/octet-stream, moved to FILE764/XMEMSTOR
