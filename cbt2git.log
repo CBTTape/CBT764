@@ -1,0 +1,12 @@
+2023-08-06 06:57:11.734602 - Initialized conversion of CBT764
+2023-08-06 06:57:11.815894 - Received CBT.V505.FILE764.PDS from FILE764.XMI 
+2023-08-06 06:57:11.818334 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE764.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:57:11.819398 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE764.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:57:11.820518 - Found $BR.rexx (text/plain) in CBT.V505.FILE764.PDS, moved to PDS/$BR
+2023-08-06 06:57:11.821492 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE764.PDS, moved to PDS/$PDSLOAD
+2023-08-06 06:57:11.822512 - Found @FILE764.txt (text/plain) in CBT.V505.FILE764.PDS, moved to PDS/@FILE764
+2023-08-06 06:57:11.823443 - Found CATSRCH.rexx (text/plain) in CBT.V505.FILE764.PDS, moved to PDS/CATSRCH
+2023-08-06 06:57:11.830161 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE764.PDS
+2023-08-06 06:57:11.837407   - Received RECFM=U data, stored XMIT file as CBT764/PDSLOAD.xmi
+2023-08-06 06:57:11.837441 - Found TTL.bin containing application/octet-stream, moved to PDS/TTL
+2023-08-06 06:57:11.838537 - Found XMEMSTOR.bin containing application/octet-stream, moved to PDS/XMEMSTOR
