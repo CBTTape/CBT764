@@ -1,12 +1,12 @@
-2025-04-15 05:24:20.017706 - Received CBT.V508.FILE764.PDS from FILE764.XMI 
-2025-04-15 05:24:20.019022 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:24:20.019373 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/$$NOTE1
-2025-04-15 05:24:20.019596 - Found $BR.rexx (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/$BR
-2025-04-15 05:24:20.019805 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/$PDSLOAD
-2025-04-15 05:24:20.019970 - Found @FILE764.txt (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/@FILE764
-2025-04-15 05:24:20.020352 - Found CATSRCH.rexx (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/CATSRCH
-2025-04-15 05:24:20.020543 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE764.PDS, moved to PDS/PDSLOAD.xmi
-2025-04-15 05:24:20.026076 - Received WSBG.LOAD from PDSLOAD.xmi 
-2025-04-15 05:24:20.026852 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
-2025-04-15 05:24:20.027962 - Found TTL.bin (application/octet-stream) in CBT.V508.FILE764.PDS, moved to PDS/TTL
-2025-04-15 05:24:20.028661 - Found XMEMSTOR.bin (application/octet-stream) in CBT.V508.FILE764.PDS, moved to PDS/XMEMSTOR
+2025-04-15 23:59:13.755282 - Received CBT.V508.FILE764.PDS from FILE764.XMI 
+2025-04-15 23:59:13.756586 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:59:13.756937 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/$$NOTE1
+2025-04-15 23:59:13.757147 - Found $BR.rexx (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/$BR
+2025-04-15 23:59:13.757345 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/$PDSLOAD
+2025-04-15 23:59:13.757393 - Found @FILE764.txt (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/@FILE764
+2025-04-15 23:59:13.757755 - Found CATSRCH.rexx (text/plain) in CBT.V508.FILE764.PDS, moved to PDS/CATSRCH
+2025-04-15 23:59:13.757944 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE764.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-15 23:59:13.763078 - Received WSBG.LOAD from PDSLOAD.xmi 
+2025-04-15 23:59:13.763569 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
+2025-04-15 23:59:13.764616 - Found TTL.bin (application/octet-stream) in CBT.V508.FILE764.PDS, moved to PDS/TTL
+2025-04-15 23:59:13.765310 - Found XMEMSTOR.bin (application/octet-stream) in CBT.V508.FILE764.PDS, moved to PDS/XMEMSTOR
